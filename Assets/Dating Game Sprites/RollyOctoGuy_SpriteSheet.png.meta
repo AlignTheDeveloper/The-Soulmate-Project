@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 3c24a12eeffaa794e8383aea08e758b8
+guid: b7098fd2e7de0b247b9a4cacc5f252b5
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -117,7 +117,7 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: PurpleGuySoulmateSpriteSheet_0
+      name: RollyOctoGuy_SpriteSheet_0
       rect:
         serializedVersion: 2
         x: 0
@@ -131,14 +131,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 2fe46291030dfe348a5302c7f947f9b8
-      internalID: -249593523
+      spriteID: bb6001d871f91de4abab6f6004f968d4
+      internalID: -1516837238
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: PurpleGuySoulmateSpriteSheet_1
+      name: RollyOctoGuy_SpriteSheet_1
       rect:
         serializedVersion: 2
         x: 64
@@ -152,14 +152,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 0b19986ad8983c1468dc6b5ef047e85d
-      internalID: 1777975132
+      spriteID: 00dde634163cd054a8b87433870b5df8
+      internalID: 556268867
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: PurpleGuySoulmateSpriteSheet_2
+      name: RollyOctoGuy_SpriteSheet_2
       rect:
         serializedVersion: 2
         x: 128
@@ -173,14 +173,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: cea2d564bd40f6642bd0d3026b36dd23
-      internalID: 37692931
+      spriteID: 056e35cf69463814e8cf0ad19d42d0b9
+      internalID: 488238233
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: PurpleGuySoulmateSpriteSheet_3
+      name: RollyOctoGuy_SpriteSheet_3
       rect:
         serializedVersion: 2
         x: 192
@@ -194,14 +194,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 27046094cf003f948b933b0349ef3b19
-      internalID: 222987738
+      spriteID: 2b90169226ab27c4f82e8ef8eac1cbb7
+      internalID: -2070193611
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: PurpleGuySoulmateSpriteSheet_4
+      name: RollyOctoGuy_SpriteSheet_4
       rect:
         serializedVersion: 2
         x: 256
@@ -215,14 +215,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 12001bb5e2e60494fab53a7310014b44
-      internalID: 1377053289
+      spriteID: cfc8d644ad4386a4a9fab14c78f9ba9d
+      internalID: 1518563379
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: PurpleGuySoulmateSpriteSheet_5
+      name: RollyOctoGuy_SpriteSheet_5
       rect:
         serializedVersion: 2
         x: 320
@@ -236,14 +236,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 795f8e756a490254b93120f00d669781
-      internalID: -27581094
+      spriteID: e1b0750c8bab4924cbf4ff01bc517046
+      internalID: 271468313
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: PurpleGuySoulmateSpriteSheet_6
+      name: RollyOctoGuy_SpriteSheet_6
       rect:
         serializedVersion: 2
         x: 384
@@ -257,14 +257,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 7fe6e032f5823a04187c413f5d6793c1
-      internalID: -1785255084
+      spriteID: e02794ec9acbba245a7c28d1e4667214
+      internalID: 1861266544
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: PurpleGuySoulmateSpriteSheet_7
+      name: RollyOctoGuy_SpriteSheet_7
       rect:
         serializedVersion: 2
         x: 448
@@ -278,8 +278,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: c1bcb1535089f2742ae817ddc2e88cea
-      internalID: -60871513
+      spriteID: c3a222359136ff244b11a101b135e9b4
+      internalID: 829088122
       vertices: []
       indices: 
       edges: []
@@ -295,14 +295,14 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      PurpleGuySoulmateSpriteSheet_0: -249593523
-      PurpleGuySoulmateSpriteSheet_1: 1777975132
-      PurpleGuySoulmateSpriteSheet_6: -1785255084
-      PurpleGuySoulmateSpriteSheet_3: 222987738
-      PurpleGuySoulmateSpriteSheet_2: 37692931
-      PurpleGuySoulmateSpriteSheet_4: 1377053289
-      PurpleGuySoulmateSpriteSheet_7: -60871513
-      PurpleGuySoulmateSpriteSheet_5: -27581094
+      RollyOctoGuy_SpriteSheet_5: 271468313
+      RollyOctoGuy_SpriteSheet_3: -2070193611
+      RollyOctoGuy_SpriteSheet_1: 556268867
+      RollyOctoGuy_SpriteSheet_0: -1516837238
+      RollyOctoGuy_SpriteSheet_6: 1861266544
+      RollyOctoGuy_SpriteSheet_2: 488238233
+      RollyOctoGuy_SpriteSheet_4: 1518563379
+      RollyOctoGuy_SpriteSheet_7: 829088122
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0
