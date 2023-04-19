@@ -3,7 +3,22 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - eleTwo
+  - eleOne
+  - headOne
+  - spawner
+  - mirror
+  - Quad1
+  - Quad2
+  - Heart
+  - Star
+  - Oval
+  - Square
+  - Triangle
+  - Octogon
+  - Circle
+  - Rhombus
   layers:
   - Default
   - TransparentFX

@@ -97,7 +97,7 @@ GameObject:
   - component: {fileID: 7365992427592718205}
   m_Layer: 0
   m_Name: Rhombus
-  m_TagString: Untagged
+  m_TagString: Rhombus
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0

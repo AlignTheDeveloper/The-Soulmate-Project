@@ -97,7 +97,7 @@ GameObject:
   - component: {fileID: 5899516453578760157}
   m_Layer: 0
   m_Name: Octogon
-  m_TagString: Untagged
+  m_TagString: Octogon
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
