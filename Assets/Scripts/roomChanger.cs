@@ -4,15 +4,24 @@ using UnityEngine;
 
 public class roomChanger : MonoBehaviour
 {
-    private Com.LuisPedroFonseca.ProCamera2D.ProCamera2DRooms proCam;
-
-    public void NextRoom()
+    public TestCamMove cam;
+    void Update()
     {
-        proCam.EnterRoom("");
-    }
-
-    public void LastRoom()
-    {
-        proCam.EnterRoom("");
+        if (Input.mousePosition.x > Screen.width /2f)
+        {
+            if (Input.GetMouseButtonDown(0))
+            {
+                cam.NextRoom();
+                //Debug.Log("Next " + currentRoomIndex);
+            }
+        }
+        else
+        {
+            if (Input.GetMouseButtonDown(0))
+            {
+                cam.PreviousRoom();
+                //Debug.Log("Back " + currentRoomIndex);
+            }
+        }
     }
 }
