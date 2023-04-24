@@ -222,7 +222,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a34d4597f5b68584c9403a32094fd423, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  spawner: {fileID: 243474800}
+  sleepCount: 0
+  spriteRenderer: {fileID: 44533827}
+  sleepingTwo: {fileID: 21300000, guid: 044ece0af2eeb6b4f9df88c3ee0884e7, type: 3}
+  sleepingThree: {fileID: 21300000, guid: 47247d565dce2cb4891169ccee99fe54, type: 3}
 --- !u!95 &44533831
 Animator:
   serializedVersion: 4
@@ -377,7 +380,7 @@ Camera:
   far clip plane: 1000
   field of view: 60
   orthographic: 1
-  orthographic size: 5.991903
+  orthographic size: 4.998095
   m_Depth: -1
   m_CullingMask:
     serializedVersion: 2

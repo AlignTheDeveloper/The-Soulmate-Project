@@ -10,14 +10,14 @@ GameObject:
   m_Component:
   - component: {fileID: 6987550094268374596}
   - component: {fileID: 1518644004165216149}
-  - component: {fileID: -1974610962714018704}
-  - component: {fileID: 5330566548877663456}
-  - component: {fileID: 4220164215444894038}
-  - component: {fileID: -7844779359357570290}
-  - component: {fileID: 3857820569765291834}
+  - component: {fileID: -7330546319637276032}
+  - component: {fileID: -3727096406521438114}
+  - component: {fileID: 3066531024493953232}
+  - component: {fileID: 6450929141938349652}
+  - component: {fileID: 5104864534922154419}
   m_Layer: 0
-  m_Name: EleTWO
-  m_TagString: eleTwo
+  m_Name: EleONE
+  m_TagString: eleOne
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -30,9 +30,9 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 4619233355459159637}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 0.3, y: 0.2887826, z: 0.21391305}
-  m_ConstrainProportionsScale: 1
+  m_LocalPosition: {x: -0.0127, y: -0.0761, z: 0}
+  m_LocalScale: {x: 0.4, y: 0.4, z: 0.4}
+  m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 0}
   m_RootOrder: 0
@@ -78,8 +78,8 @@ SpriteRenderer:
   m_SortingLayerID: 1970573457
   m_SortingLayer: 2
   m_SortingOrder: 0
-  m_Sprite: {fileID: 21300000, guid: 45c2efec0337178408034914080ea1db, type: 3}
-  m_Color: {r: 0.3820755, g: 0.7915568, b: 1, a: 1}
+  m_Sprite: {fileID: 21300000, guid: e17f8152177971448813c64d55d57344, type: 3}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
   m_DrawMode: 0
@@ -89,7 +89,7 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
---- !u!114 &-1974610962714018704
+--- !u!114 &-7330546319637276032
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -103,7 +103,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   spawnObj: {fileID: 0}
   selectedObject: {fileID: 0}
---- !u!114 &5330566548877663456
+--- !u!114 &-3727096406521438114
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -121,23 +121,7 @@ MonoBehaviour:
   electronOne: {fileID: 0}
   mirror: {fileID: 0}
   MirrorPoint: {fileID: 0}
---- !u!58 &4220164215444894038
-CircleCollider2D:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 4619233355459159637}
-  m_Enabled: 1
-  m_Density: 1
-  m_Material: {fileID: 0}
-  m_IsTrigger: 0
-  m_UsedByEffector: 0
-  m_UsedByComposite: 0
-  m_Offset: {x: 0.0000003973643, y: 0.68590343}
-  serializedVersion: 2
-  m_Radius: 1.8688257
---- !u!114 &-7844779359357570290
+--- !u!114 &3066531024493953232
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -149,7 +133,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9d113644b2deb644bb09f860e29d6796, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
---- !u!50 &3857820569765291834
+--- !u!50 &6450929141938349652
 Rigidbody2D:
   serializedVersion: 4
   m_ObjectHideFlags: 0
@@ -170,3 +154,29 @@ Rigidbody2D:
   m_SleepingMode: 1
   m_CollisionDetection: 0
   m_Constraints: 4
+--- !u!61 &5104864534922154419
+BoxCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4619233355459159637}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: 3.2868044, y: 0.19080251}
+  m_SpriteTilingProperty:
+    border: {x: 0, y: 0, z: 0, w: 0}
+    pivot: {x: 0.5, y: 0.5}
+    oldSize: {x: 24, y: 12}
+    newSize: {x: 1, y: 1}
+    adaptiveTilingThreshold: 0.5
+    drawMode: 0
+    adaptiveTiling: 0
+  m_AutoTiling: 0
+  serializedVersion: 2
+  m_Size: {x: 2.2601352, y: 3.579236}
+  m_EdgeRadius: 0
