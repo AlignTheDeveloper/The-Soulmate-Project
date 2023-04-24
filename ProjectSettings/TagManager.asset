@@ -19,7 +19,14 @@ TagManager:
   - Octogon
   - Circle
   - Rhombus
+<<<<<<< HEAD
   - BG
+=======
+  - leftPoint
+  - rightPoint
+  - leftPointT
+  - rightPointT
+>>>>>>> introSCreen
   layers:
   - Default
   - TransparentFX
@@ -28,7 +35,7 @@ TagManager:
   - Water
   - UI
   - Characters
-  - 
+  - foreground
   - 
   - 
   - 
@@ -68,4 +75,7 @@ TagManager:
     locked: 0
   - name: Characters
     uniqueID: 2079375207
+    locked: 0
+  - name: foreground
+    uniqueID: 3368019559
     locked: 0
