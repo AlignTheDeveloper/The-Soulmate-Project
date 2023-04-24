@@ -19,6 +19,7 @@ TagManager:
   - Octogon
   - Circle
   - Rhombus
+  - BG
   layers:
   - Default
   - TransparentFX
