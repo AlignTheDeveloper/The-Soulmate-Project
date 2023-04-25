@@ -3,16 +3,39 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - eleTwo
+  - eleOne
+  - headOne
+  - spawner
+  - mirror
+  - Quad1
+  - Quad2
+  - Heart
+  - Star
+  - Oval
+  - Square
+  - Triangle
+  - Octogon
+  - Circle
+  - Rhombus
+<<<<<<< HEAD
+  - BG
+=======
+  - leftPoint
+  - rightPoint
+  - leftPointT
+  - rightPointT
+>>>>>>> introSCreen
   layers:
   - Default
   - TransparentFX
   - Ignore Raycast
-  - 
+  - BG
   - Water
   - UI
-  - 
-  - 
+  - Characters
+  - foreground
   - 
   - 
   - 
@@ -40,4 +63,19 @@ TagManager:
   m_SortingLayers:
   - name: Default
     uniqueID: 0
+    locked: 0
+  - name: BG
+    uniqueID: 2608334477
+    locked: 0
+  - name: BG Screen
+    uniqueID: 1970573457
+    locked: 0
+  - name: UI
+    uniqueID: 3608954093
+    locked: 0
+  - name: Characters
+    uniqueID: 2079375207
+    locked: 0
+  - name: foreground
+    uniqueID: 3368019559
     locked: 0
