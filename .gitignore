@@ -61,7 +61,4 @@ crashlytics-build.properties
 #Visual Studio Code directory
 .vscode/
 
-#Editor user settings
-/[Uu]serSettings/EditorUserSettings.asset
-
 .fake
