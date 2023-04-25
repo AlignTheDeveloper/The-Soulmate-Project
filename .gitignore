@@ -63,6 +63,5 @@ crashlytics-build.properties
 
 #Editor user settings
 /[Uu]serSettings/EditorUserSettings.asset
-/[Uu]serSettings/Layouts/default-2021.dwt
 
 .fake
